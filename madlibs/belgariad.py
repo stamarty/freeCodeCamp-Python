@@ -1,0 +1,2 @@
+def madlib():
+    print("Belgariad")
